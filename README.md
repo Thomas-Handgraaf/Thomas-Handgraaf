@@ -1,10 +1,7 @@
-# Public Profile
+# Profile
 
-This is my public-facing GitHub account.
+This account is just for my website.
 
-It exists mainly for my website and general presence.
-All development work and projects are maintained on a separate account.
+All my actual projects and code are on another account:
 
-## Main GitHub
-
-👉 https://github.com/Fire-Pixel8422
+👉 https://github.com/FirePixel8422
