@@ -1,16 +1,14 @@
-## Hi there 👋
+# Public Profile
 
-<!--
-**Thomas-Handgraaf/Thomas-Handgraaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is my public-facing GitHub account.
 
-Here are some ideas to get you started:
+It exists mainly for my website and general presence.
+All development work and projects are maintained on a separate account.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Main GitHub
+
+👉 https://github.com/YOUR_MAIN_ACCOUNT
+
+## About
+
+Unity developer focused on systems, performance, and low-level programming.
