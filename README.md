@@ -7,8 +7,4 @@ All development work and projects are maintained on a separate account.
 
 ## Main GitHub
 
-👉 https://github.com/YOUR_MAIN_ACCOUNT
-
-## About
-
-Unity developer focused on systems, performance, and low-level programming.
+👉 https://github.com/Fire-Pixel8422
